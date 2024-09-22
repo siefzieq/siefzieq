@@ -21,11 +21,11 @@ Hey there, folks! You’re tuned in to the channel where coding meets creativity
 
 ### Back-End Development
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel Logo" height="100px" />&nbsp
-   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" alt="C++ Logo" height="100px" />&nbsp
-   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="100px" />&nbsp
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="C Logo" height="100px" />&nbsp
-   <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="100px" />&nbsp
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel Logo" height="100px" />&nbsp&nbsp
+   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" alt="C++ Logo" height="100px" />&nbsp&nbsp&nbsp
+   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="100px" />&nbsp&nbsp&nbsp
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="C Logo" height="100px" />
+   <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="100px" />
 </div>
 
 
