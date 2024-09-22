@@ -12,7 +12,7 @@ Hey there, folks! You’re tuned in to the channel where coding meets creativity
 
 ### Front-End Development
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
-   <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo" height="100px"/> &nbsp
+   <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo" height="100px"/> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" height="100px"/>&nbsp&nbsp
     <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" alt="React Logo" height="100px"/>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" height="100px"/>
