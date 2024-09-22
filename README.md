@@ -14,7 +14,7 @@ Hey there, folks! You’re tuned in to the channel where coding meets creativity
 <div style="display: flex; align-items: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python Logo" width="150" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel Logo" width="150" />
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png](https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png)" alt="ReactLogo" width="150" />
+    <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png)" alt="ReactLogo" width="150" />
   
 </div>
   
