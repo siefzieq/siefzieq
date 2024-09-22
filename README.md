@@ -9,7 +9,8 @@ Hey there, folks! You’re tuned in to the channel where coding meets creativity
 📊 Data Dive: Stay tuned as we break down my data analysis work, like that sweet Tableau dashboard tracking Malaysia’s rubber plantations. Yes, data can be that cool!
 
 ## 💡 Pro Tips & Tech Tricks:
-Languages and frameworks I’m mastering: React, Python, Machine Learning, JavaScript—you name it, we code it!
+
+### Languages and frameworks I’m mastering: React, Python, Machine Learning, JavaScript—you name it, we code it!
   
 Bonus content: Coding hacks, fun challenges, and plenty of late-night debugging sessions (comes with snacks, of course).
 
