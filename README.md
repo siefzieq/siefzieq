@@ -8,7 +8,7 @@ Hey there, folks! You’re tuned in to the channel where coding meets creativity
 
 📊 Data Dive: Stay tuned as we break down my data analysis work, like that sweet Tableau dashboard tracking Malaysia’s rubber plantations. Yes, data can be that cool!
 
-## 💡 Languages and Framework:
+## 💡 Languages, Frameworks & Tools:
 
 ### Front-End Development
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
@@ -28,7 +28,8 @@ Hey there, folks! You’re tuned in to the channel where coding meets creativity
    <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="100px" />
 </div>
 
-# 🛠️ Projects
+### Others
+
 
 
 <br><br>
