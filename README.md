@@ -1,5 +1,5 @@
 # 🎬 Welcome to Code with Hasif Zikry! 🎥
-Hey there, folks! You’re tuned in to the channel where coding meets creativity! I’m your host, Hasif Zikry, and today, we’re diving deep into the world of Laravel, React Machine Learning, and all things tech magic.
+Hey there, folks! You’re tuned in to the channel where coding meets creativity! I’m your host, Hasif Zikry, and today, we’re diving deep into the world of Laravel, React, Machine Learning, and all things tech magic.
 
 ## 🔧 On today’s episode:
 🚀 Project Spotlight: From my Gemini-like Mock System (think ChatGPT but Hasif-flavored) to a centralized monitoring system for urban farms, we’re showcasing the builds that keep me coding into the night!
