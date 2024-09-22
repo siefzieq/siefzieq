@@ -14,7 +14,7 @@ Hey there, folks! You’re tuned in to the channel where coding meets creativity
 <style>
     .logo {
         width: 100px;
-        height: auto; /* Maintain aspect ratio */
+        height: 100px; /* Maintain aspect ratio */
         object-fit: contain; /* Ensures the logo fits within the specified dimensions */
     }
 </style>
