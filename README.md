@@ -14,7 +14,7 @@ Hey there, folks! You’re tuned in to the channel where coding meets creativity
 <div style="display: flex; align-items: flex-start;">
    <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo" width="100px" height="100px"/>
     <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="100px" height="100px" />
-    <img class="logo" src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" alt="JavaScript Logo" width="100px" height="100px" />
+    <img class="logo" src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" alt="JavaScript Logo" width="200px" height="100px" />
     <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel Logo" width="100px" height="100px" />
     <img class="logo" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" alt="React Logo" width="100px" height="100px" />
 </div>
