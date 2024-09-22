@@ -8,10 +8,12 @@ Hey there, folks! You’re tuned in to the channel where coding meets creativity
 
 📊 Data Dive: Stay tuned as we break down my data analysis work, like that sweet Tableau dashboard tracking Malaysia’s rubber plantations. Yes, data can be that cool!
 
-## 💡 Pro Tips & Tech Tricks:
+## 💡 Languages and Framework:
 
-### Languages and Frameworks that I currently mastered 💪🏻
+### Front-End Development
 <div style="display: flex; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo" width="80" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO5ryTY9VShCV5uJWhoBXkcxxlFB8O5bbxGA&s" alt="CSS Logo" width="80" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python Logo" width="150" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel Logo" width="150" />
     <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" alt="ReactLogo" width="150" />
