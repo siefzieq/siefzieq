@@ -10,7 +10,7 @@ Hey there, folks! You’re tuned in to the channel where coding meets creativity
 
 ## 💡 Languages and Framework:
 
-### - Front-End Development
+### <ul>Front-End Development</ul>
 <div style="display: flex; align-items: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo" width="100" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="100" />
