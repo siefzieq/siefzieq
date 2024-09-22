@@ -28,6 +28,8 @@ Hey there, folks! You’re tuned in to the channel where coding meets creativity
    <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="100px" />
 </div>
 
+# 🛠️ Projects
+
 
 <br><br>
 So grab your keyboard, hit follow, and let’s write some epic code together. Because at Code with Hasif Zikry, it’s not just about coding—it’s about creating something awesome! 🎉
