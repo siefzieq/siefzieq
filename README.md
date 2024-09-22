@@ -10,15 +10,22 @@ Hey there, folks! You’re tuned in to the channel where coding meets creativity
 
 ## 💡 Languages and Framework:
 
-### <ul>Front-End Development</ul>
+### Front-End Development
+<style>
+    .logo {
+        width: 100px;
+        height: auto; /* Maintain aspect ratio */
+        object-fit: contain; /* Ensures the logo fits within the specified dimensions */
+    }
+</style>
+
 <div style="display: flex; align-items: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo" width="100" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="100" />
-    <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" alt="CSS Logo" width="100" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel Logo" width="100" />
-    <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" alt="ReactLogo" width="100" />
+    <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo" />
+    <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" />
+    <img class="logo" src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" alt="JavaScript Logo" />
+    <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel Logo" />
+    <img class="logo" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" alt="React Logo" />
 </div>
-  
 
 
 So grab your keyboard, hit follow, and let’s write some epic code together. Because at Code with Hasif Zikry, it’s not just about coding—it’s about creating something awesome! 🎉
