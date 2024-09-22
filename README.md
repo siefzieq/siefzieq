@@ -10,8 +10,9 @@ Hey there, folks! You’re tuned in to the channel where coding meets creativity
 
 ## 💡 Pro Tips & Tech Tricks:
 
-### Languages and Frameworks
-![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)
+### Languages and Frameworks that I currently mastered 💪🏻
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python Logo" width="300" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="300" />
   
 
 
