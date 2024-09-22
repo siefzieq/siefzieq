@@ -11,7 +11,7 @@ Hey there, folks! You’re tuned in to the channel where coding meets creativity
 ## 💡 Pro Tips & Tech Tricks:
 
 ### Languages and Frameworks
-![Python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fdevrock-python-django-edr-KAq5w47R9rmTuvWOWa&psig=AOvVaw2JhDXVYFwwcuj18Ti04cfo&ust=1727098851963000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDpvd_W1ogDFQAAAAAdAAAAABAJ)
+![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)
   
 
 
