@@ -10,9 +10,10 @@ Hey there, folks! You’re tuned in to the channel where coding meets creativity
 
 ## 💡 Pro Tips & Tech Tricks:
 
-### Languages and frameworks I’m mastering: React, Python, Machine Learning, JavaScript—you name it, we code it!
+### Languages and Frameworks
+
+<h1>Hello</h1>
   
-Bonus content: Coding hacks, fun challenges, and plenty of late-night debugging sessions (comes with snacks, of course).
 
 
 So grab your keyboard, hit follow, and let’s write some epic code together. Because at Code with Hasif Zikry, it’s not just about coding—it’s about creating something awesome! 🎉
