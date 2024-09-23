@@ -44,9 +44,9 @@ Hey there, folks! You’re tuned in to the channel where coding meets creativity
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height="100px" />
 </div>
 
+## Projects
 
-
-<br><br>
+<br>
 So grab your keyboard, hit follow, and let’s write some epic code together. Because at Code with Hasif Zikry, it’s not just about coding—it’s about creating something awesome! 🎉
 
 
