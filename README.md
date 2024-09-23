@@ -28,6 +28,12 @@ Hey there, folks! You’re tuned in to the channel where coding meets creativity
    <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="100px" />
 </div>
 
+### Database
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+   <img src="https://brandslogos.com/wp-content/uploads/thumbs/mysql-logo-vector-1.svg" height="100px"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" height="100px" />
+</div>
+
 ### Others
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
    <img src="https://img.icons8.com/?size=512&id=OU2ddOKw840K&format=png" height="100px"/>
