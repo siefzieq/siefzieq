@@ -38,8 +38,8 @@ Hey there, folks! You’re tuned in to the channel where coding meets creativity
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
    <img src="https://img.icons8.com/?size=512&id=OU2ddOKw840K&format=png" height="100px"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/2048px-Microsoft_Power_Automate.svg.png" height="100px"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" height="100px" />
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy0Tw_j8_e2nBjxCVFTjfF0hBJrptR-gcCiA&s" height="100px"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" height="100px" />&nbsp
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy0Tw_j8_e2nBjxCVFTjfF0hBJrptR-gcCiA&s" height="100px"/>&nbsp
    <img src="https://img.icons8.com/color/512/tableau-software.png" height="100px" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height="100px" />
 </div>
