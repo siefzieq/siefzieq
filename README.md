@@ -34,7 +34,7 @@ Hey there, folks! You’re tuned in to the channel where coding meets creativity
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/2048px-Microsoft_Power_Automate.svg.png" height="100px"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" height="100px" />
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy0Tw_j8_e2nBjxCVFTjfF0hBJrptR-gcCiA&s" height="100px"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/640px-Tableau_Logo.png" height="100px" width="300px"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/640px-Tableau_Logo.png" height="80px" width="300px"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height="100px" />
 </div>
 
