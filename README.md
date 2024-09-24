@@ -42,6 +42,7 @@ Hey there, folks! You’re tuned in to the channel where coding meets creativity
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy0Tw_j8_e2nBjxCVFTjfF0hBJrptR-gcCiA&s" height="100px"/>&nbsp
    <img src="https://img.icons8.com/color/512/tableau-software.png" height="100px" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height="100px" />
+   <img src="https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png" height="100px" />
 </div>
 <br>
 So grab your keyboard, hit follow, and let’s write some epic code together. Because at Code with Hasif Zikry, it’s not just about coding—it’s about creating something awesome! 🎉
