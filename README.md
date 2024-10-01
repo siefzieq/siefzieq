@@ -43,6 +43,7 @@ Hey there, folks! You’re tuned in to the channel where coding meets creativity
    <img src="https://img.icons8.com/color/512/tableau-software.png" height="100px" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height="100px" />
    <img src="https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png" height="100px" />
+   <br>
    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" height="100px" />
    <img src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png" height="100px" />
    
