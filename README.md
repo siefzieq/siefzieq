@@ -27,7 +27,7 @@
 </div>
 
 <h2 align="center">📊 Github Stats 📊</h2>
-[![Hasif's GitHub stats](https://github-readme-stats.vercel.app/api?username=siefzieq)](https://github.com/siefzieq/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siefzieq)](https://github.com/siefzieq/github-readme-stats)
 
 
 
