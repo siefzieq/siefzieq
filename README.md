@@ -5,12 +5,12 @@
 </div>
 
 <div>
-   <h2 align="center">About</h2>
-   <img src="https://img.shields.io/badge/Computer_science_graduate-blue?style=for-the-badge&color=ffffff" />
-   <img src="https://img.shields.io/badge/i_have_a_deep_passion_in-blue?style=for-the-badge&color=ffffff" />
-   <img src="https://img.shields.io/badge/data_science-blue?style=for-the-badge&color=FFA500" />
-   <img src="https://img.shields.io/badge/and-blue?style=for-the-badge&color=ffffff" />
-   <img src="https://img.shields.io/badge/software_development-blue?style=for-the-badge&color=90E0EF" />
+   <h2 align="center">About Me 🧑🏻‍💼</h2>
+   <p>I am Hasif Zikry, a recent Computer Science Graduate</p>
+   <ul>
+      <li>🌱  I'm currently learning React JS</li>
+      <li>🤖  Check out my projects here :</li><a href="https://github.com/siefzieq?tab=repositories"> </a>
+   </ul>
    </p>
 </div>
 
