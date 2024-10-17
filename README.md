@@ -5,9 +5,10 @@
 </div>
 
 <div align="center">
-   🎓 Recent Computer Science Graduate with a Bachelor of Computer Science (Software Engineering).
+   🎓 Recent Computer Science Graduate with a Bachelor of Computer Science (Software Engineering)
    
-   💻 Passionate Software Developer and Data Science Enthusiast.
+   
+   💻 Passionate Software Developer and Data Science Enthusiast
    
    🚀 I love creating innovative solutions and exploring new technologies through hands-on projects!
 
@@ -38,7 +39,7 @@
 
 <div style="display: flex; justify-content: space-between;" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siefzieq&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" style="width: 48%;">&nbsp&nbsp&nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siefzieq&layout=compact&theme=dracula" alt="Top Langs" style="width: 38%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siefzieq&layout=compact&theme=dracula" alt="Top Langs" style="width: 35%;">
 </div>
 
 
