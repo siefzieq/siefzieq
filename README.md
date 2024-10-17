@@ -22,9 +22,9 @@
 <br />
 <div align="center">
    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=github,git,html,css,react,bootstrap&perline=10" />
-      <img src="https://skillicons.dev/icons?i=js,bootstrap,figma,firebase,mysql,java&perline=10" />
-      <img src="https://skillicons.dev/icons?i=cpp,c,csharp,dotnet&perline=10" />
+      <img src="https://skillicons.dev/icons?i=github,git,html,css,react,netlify,php,phpstorm,py&perline=10" />
+      <img src="https://skillicons.dev/icons?i=js,bootstrap,figma,firebase,mysql,java,laravel&perline=10" />
+      <img src="https://skillicons.dev/icons?i=cpp,c,cs,dotnet,vscode,tensorflow,anaconda,npm&perline=10" />
    </a>
 </div>
 
