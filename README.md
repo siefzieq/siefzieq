@@ -6,7 +6,7 @@
 
 <div>
    <h2 align="center">About</h2>
-   <p>Hello everyone! My name is Hasif Zikry, recent Computer Science Graduate 2024. I have a deep passion in <img src="https://img.shields.io/badge/data_science-blue?style=for-the-badge&color=FFA500" /> and 
+   <p>Hello everyone! My name is Hasif Zikry, recent Computer Science Graduate 2024. I have a deep passion in <img src="https://img.shields.io/badge/data_science-blue?style=for-the-badge&color=FFA500" /> and <img src="https://img.shields.io/badge/software_development-blue?style=for-the-badge&color=03045e" />
    </p>
 </div>
 
