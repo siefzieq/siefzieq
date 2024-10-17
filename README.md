@@ -17,14 +17,14 @@
    </a>
 </div>
 <hr />
-
+<br />
 <h2 align="center">⚒️ Languages/Frameworks/Tools ⚒️ </h2>
 <br />
 <div align="center">
    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=github,git,html,css,react,bootstrap&perline=6" /><br>
-      <img src="https://skillicons.dev/icons?i=js,bootstrap,figma,firebase,mysql,java&perline=6" /><br>
-      <img src="https://skillicons.dev/icons?i=cpp,c#&perline=6" /><br>
+      <img src="https://skillicons.dev/icons?i=github,git,html,css,react,bootstrap&perline=10" />
+      <img src="https://skillicons.dev/icons?i=js,bootstrap,figma,firebase,mysql,java&perline=10" />
+      <img src="https://skillicons.dev/icons?i=cpp,c,csharp,dotnet&perline=10" />
    </a>
 </div>
 
