@@ -1,4 +1,8 @@
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsiefzieq%2Fsiefzieq%2Fedit%2Fmain%2FREADME.md&label=Visitors&countColor=%23f47373)"/>
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsiefzieq%2Fsiefzieq%2Fedit%2Fmain%2FREADME.md&label=Visitors&countColor=%23d9e3f0)"/>
+
+<h1 align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hello+there+%F0%9F%91%8B+;I+am+Hasif+Zikry;A+passionate+Software+Developer++%F0%9F%92%BB+" alt="Typing SVG" /></a>
+</h1>
 
 # 🎬 Welcome to Code with Hasif Zikry! 🎥
 Hey there, folks! You’re tuned in to the channel where coding meets creativity! I’m your host, Hasif Zikry, and today, we’re diving deep into the world of Laravel, React, Machine Learning, and all things tech magic.
