@@ -6,9 +6,8 @@
 
 <div>
    <h2 align="center">About</h2>
-   <img src="https://img.shields.io/badge/Hasif_Zikry-blue?style=for-the-badge&color=0077b6" />
    <img src="https://img.shields.io/badge/Computer_science_graduate-blue?style=for-the-badge&color=ffffff" />
-   <img src="https://img.shields.io/badge/deep_passion_in-blue?style=for-the-badge&color=ffffff" />
+   <img src="https://img.shields.io/badge/i_have_a_deep_passion_in-blue?style=for-the-badge&color=ffffff" />
    <img src="https://img.shields.io/badge/data_science-blue?style=for-the-badge&color=FFA500" />
    <img src="https://img.shields.io/badge/and-blue?style=for-the-badge&color=ffffff" />
    <img src="https://img.shields.io/badge/software_development-blue?style=for-the-badge&color=90E0EF" />
