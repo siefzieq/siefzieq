@@ -4,8 +4,16 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&width=600&lines=Hello+There+%F0%9F%91%8B+;I+am+Hasif+Zikry" alt="Typing SVG" /></a>
 </div>
 
+<div>
+   <h2>About</h2>
+   <p>Hello everyone! My name is Hasif Zikry, recent Computer Science Graduate 2024. I have a deep passion in <a href="https://img.shields.io/badge/data_science-blue?style=for-the-badge&color=FFA500
+"></a> and 
+                                                                                                                 
+   </p>
+</div>
+
 <div align="center">
-   <h3>Social Media</h3>
+   <h2>Social Media</h2>
    <a href="mailto:muhdhasifzikry02@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&color=ffffff" />
    </a>
@@ -16,7 +24,6 @@
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=portfolio&color=53565a"/>
    </a>
 </div>
-<hr />
 <br />
 <h2 align="center">⚒️ Languages/Frameworks/Tools ⚒️ </h2>
 <br />
