@@ -5,13 +5,7 @@
 </div>
 
 <div align="center">
-   <h2>About Me</h2>
-   <p>I am Hasif Zikry, a recent Computer Science Graduate</p>
-   <ul>
-      <li>🌱  I'm currently learning React JS</li>
-      <li>🤖  Check out my projects here :</li><a href="https://github.com/siefzieq?tab=repositories"> </a>
-   </ul>
-   </p>
+   <p>A recent Computer Science Graduate with a Bachelor of Computer Science, specializing in Software Engineering. I have a deep passion in Software Development and Data Science which I've honed through several academics and personal projects</p>
 </div>
 
 <div align="center">
