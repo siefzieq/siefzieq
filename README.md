@@ -39,7 +39,7 @@
 
 <div style="display: flex; justify-content: space-between;" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siefzieq&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" style="width: 48%;">&nbsp&nbsp&nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siefzieq&layout=compact&theme=dracula" alt="Top Langs" style="width: 35%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siefzieq&layout=compact&theme=dracula" alt="Top Langs" style="width: 36%;">
 </div>
 
 
