@@ -1,18 +1,20 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsiefzieq%2Fsiefzieq%2Fedit%2Fmain%2FREADME.md&label=Visitors&countColor=%23d9e3f0)"/>
 
 <h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello+there+%F0%9F%91%8B+;I+am+Hasif+Zikry;" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hello+there+%F0%9F%91%8B+;I+am+Hasif+Zikry!" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center"> A passionate Computer Science Graduate from 🇲🇾 </h3>
+<h3 align="center"> A Recent Computer Science Graduate from 🇲🇾 </h3>
 <br />
 
 <div align="center">
-   🚀 Project Spotlight: From my **Gemini-like Mock System** to a **centralized monitoring system** for urban farms, we’re showcasing the builds that                             keep me coding into the night!
+   🚀 I'm currently learning <b>React Js, Node JS, Swift</b>
 
-   🎓 What I’m currently learning: We’ll explore the cutting-edge stuff I’m mastering—like Deep Learning and fine-tuning my KNN algorithms. Watch as I push my React skills to their limits.
+   ❤️ I'm passionate in Software Development and Data Science
 
-   📊 Data Dive: Stay tuned as we break down my data analysis work, like Denver Crime Classification Model. Yes, data can be that cool!
+   👨🏻‍💻 Experience in Web, Mobile and Low-Code Development
+
+   🤩 Favourite languages : PHP, HTML5, CSS, JavaScript, C++
 </div>
 
 
