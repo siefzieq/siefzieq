@@ -22,9 +22,6 @@
    <a href="https://www.linkedin.com/in/muhammad-hasif-zikry-mohd-ridzwan/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=0077b5" />
    </a>
-   <a href="">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=portfolio&color=53565a"/>
-   </a>
 </div>
 <br />
 <h2 align="center">⚒️ Languages/Frameworks/Tools ⚒️ </h2>
