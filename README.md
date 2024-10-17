@@ -4,8 +4,8 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&width=600&lines=Hello+There+%F0%9F%91%8B+;I+am+Hasif+Zikry" alt="Typing SVG" /></a>
 </div>
 
-<div>
-   <h2 align="center">About Me 🧑🏻‍💼</h2>
+<div align="center">
+   <h2>About Me</h2>
    <p>I am Hasif Zikry, a recent Computer Science Graduate</p>
    <ul>
       <li>🌱  I'm currently learning React JS</li>
