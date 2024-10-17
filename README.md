@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=siefzieq.siefzieq" />
+
 # 🎬 Welcome to Code with Hasif Zikry! 🎥
 Hey there, folks! You’re tuned in to the channel where coding meets creativity! I’m your host, Hasif Zikry, and today, we’re diving deep into the world of Laravel, React, Machine Learning, and all things tech magic.
 
