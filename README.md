@@ -4,7 +4,7 @@ Hey there, folks! You’re tuned in to the channel where coding meets creativity
 ## 🔧 On Today’s Episode:
 🚀 Project Spotlight: From my Gemini-like Mock System (think ChatGPT but Hasif-flavored) to a centralized monitoring system for urban farms, we’re showcasing the builds that keep me coding into the night!
 
-🎓 What I’m currently learning: We’ll explore the cutting-edge stuff I’m mastering—like Deep Learning and fine-tuning my KNN algorithms. Watch as I push my React and Vue skills to their limits.
+🎓 What I’m currently learning: We’ll explore the cutting-edge stuff I’m mastering—like Deep Learning and fine-tuning my KNN algorithms. Watch as I push my React skills to their limits.
 
 📊 Data Dive: Stay tuned as we break down my data analysis work, like that sweet Tableau dashboard tracking Malaysia’s rubber plantations. Yes, data can be that cool!
 
