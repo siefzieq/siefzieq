@@ -1,7 +1,7 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsiefzieq%2Fsiefzieq%2Fedit%2Fmain%2FREADME.md&label=Visitors&countColor=%23d9e3f0)"/><br /><br />
 
 <div align='center'>
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&width=600&lines=Hello+There+%F0%9F%91%8B+;I+am+Hasif+Zikry" alt="Typing SVG" /></a>
+   <h1>Hello There 👋, I am Hasif Zikry! </h1>
 </div>
 
 <div align="center">
