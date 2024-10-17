@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=siefzieq.siefzieq" />
+<img align="right" src="[https://visitor-badge.laobi.icu/badge?page_id=siefzieq.siefzieq](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsiefzieq%2Fsiefzieq%2Fedit%2Fmain%2FREADME.md&label=Visitors&countColor=%23f47373)"/>
 
 # 🎬 Welcome to Code with Hasif Zikry! 🎥
 Hey there, folks! You’re tuned in to the channel where coding meets creativity! I’m your host, Hasif Zikry, and today, we’re diving deep into the world of Laravel, React, Machine Learning, and all things tech magic.
