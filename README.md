@@ -32,7 +32,7 @@
    <img src="https://img.shields.io/badge/C-violet?style=for-the-badge&logo=c&color=4A569A" />
    <img src="https://img.shields.io/badge/C%2B%2B-violet?style=for-the-badge&logo=c%2B%2B&color=003668" />
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff" />
    <img src="https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5&logoColor=ffffff&color=B6401E" />
    <img src="https://img.shields.io/badge/css3-white?style=for-the-badge&logo=CSS3&logoColor=ffffff&color=1F3EB6" />
    <img src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=ffffff&color=C6B216" />
@@ -42,6 +42,20 @@
    <img src="https://img.shields.io/badge/tableau-white?style=for-the-badge&logo=tableau&logoColor=BA5E25&color=CCCCCC" />
    <img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&color=f7f7f7" />
    <img src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=black&color=61DBFB" />
+   <img src="https://img.shields.io/badge/.Net-white?style=for-the-badge&logo=dotnet&logoColor=white&color=purple" />
+   <img src="https://img.shields.io/badge/tensorflow-white?style=for-the-badge&logo=tensorflow" />
+   <img src="https://img.shields.io/badge/php-white?style=for-the-badge&logo=php&logoColor=white&color=5F628F" />
+   <img src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=white&color=EE5656" />
+   <img src="" />
+   <img src="" />
+   <img src="" />
+   <img src="" />
+   <img src="" />
+   <img src="" />
+   <img src="" />
+   <img src="" />
+   <img src="" />
+   <img src="" />
       
 </div>
 
