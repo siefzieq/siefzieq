@@ -1,11 +1,10 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsiefzieq%2Fsiefzieq%2Fedit%2Fmain%2FREADME.md&label=Visitors&countColor=%23d9e3f0)"/><br /><br />
 
 # 👋 Hi, I'm Hasif Zikry!
-<br />
- 👨🏻‍💻 Computer Science Graduate sharing about my learnings in tech (Software Development & Data Science)
- 🎓 Studied Computer Science at Universiti Tenaga Nasional, Malaysia
- 💬 Currently learning about Web Development and Machine Learning Models!
-
+ 👨🏻‍💻 Computer Science Graduate sharing about my learnings in tech (Software Development & Data Science)<br />
+ 🎓 Studied Computer Science at Universiti Tenaga Nasional, Malaysia <br />
+ 💬 Currently learning about Web Development and Machine Learning Models! <br />
+<br /><br />
 <div style="display: flex; justify-content: space-between;" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siefzieq&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" style="width: 48%;">&nbsp&nbsp&nbsp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siefzieq&layout=compact&theme=dracula" alt="Top Langs" style="width: 37%;">
