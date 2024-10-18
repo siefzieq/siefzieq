@@ -4,8 +4,8 @@
  👨🏻‍💻 Computer Science Graduate sharing about my learnings in tech (Software Development & Data Science)<br />
  🎓 Studied Computer Science at Universiti Tenaga Nasional, Malaysia <br />
  💬 Currently learning about Web Development and Machine Learning Models! <br />
-<br /><br />
-<div style="display: flex; justify-content: space-between;" align="center">
+<br />
+<div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=siefzieq&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" style="width: 48%;">&nbsp&nbsp&nbsp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siefzieq&layout=compact&theme=dracula" alt="Top Langs" style="width: 37%;">
 </div>
