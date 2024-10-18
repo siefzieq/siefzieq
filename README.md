@@ -45,18 +45,7 @@
    <img src="https://img.shields.io/badge/.Net-white?style=for-the-badge&logo=dotnet&logoColor=white&color=purple" />
    <img src="https://img.shields.io/badge/tensorflow-white?style=for-the-badge&logo=tensorflow" />
    <img src="https://img.shields.io/badge/php-white?style=for-the-badge&logo=php&logoColor=white&color=5F628F" />
-   <img src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=white&color=EE5656" />
-   <img src="" />
-   <img src="" />
-   <img src="" />
-   <img src="" />
-   <img src="" />
-   <img src="" />
-   <img src="" />
-   <img src="" />
-   <img src="" />
-   <img src="" />
-      
+   <img src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=white&color=EE5656" />  
 </div>
 
 <h2 align="center">📊 Github Stats 📊</h2>
