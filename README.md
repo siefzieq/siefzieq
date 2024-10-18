@@ -1,4 +1,4 @@
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsiefzieq%2Fsiefzieq%2Fedit%2Fmain%2FREADME.md&label=Visitors&countColor=%23d9e3f0)"/><br /><br />
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsiefzieq%2Fsiefzieq%2Fedit%2Fmain%2FREADME.md&label=Visitors&countColor=%EE5656)"/><br /><br />
 
 # 👋 Hi, I'm Hasif Zikry!
  👨🏻‍💻 Computer Science Graduate sharing about my learnings in tech (Software Development & Data Science)<br />
