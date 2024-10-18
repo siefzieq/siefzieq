@@ -21,7 +21,7 @@
 <br />
 <h2>⚒️ Languages/Frameworks/Tools</h2>
 <br />
-<div align="center">
+<div>
    <img src="https://img.shields.io/badge/C-violet?style=for-the-badge&logo=c&color=4A569A" />
    <img src="https://img.shields.io/badge/C%2B%2B-violet?style=for-the-badge&logo=c%2B%2B&color=003668" />
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
