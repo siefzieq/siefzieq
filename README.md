@@ -1,23 +1,18 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsiefzieq%2Fsiefzieq%2Fedit%2Fmain%2FREADME.md&label=Visitors&countColor=%23d9e3f0)"/><br /><br />
 
-<div align='center'>
-   <h1>Hello There 👋, I am Hasif Zikry! </h1>
+# 👋 Hi, I'm Hasif Zikry!
+<br />
+ 👨🏻‍💻 Computer Science Graduate sharing about my learnings in tech (Software Development & Data Science)
+ 🎓 Studied Computer Science at Universiti Tenaga Nasional, Malaysia
+ 💬 Currently learning about Web Development and Machine Learning Models!
+
+<div style="display: flex; justify-content: space-between;" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siefzieq&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" style="width: 48%;">&nbsp&nbsp&nbsp
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siefzieq&layout=compact&theme=dracula" alt="Top Langs" style="width: 37%;">
 </div>
 
-<div align="center">
-   🎓 Recent Computer Science Graduate with a Bachelor of Computer Science (Software Engineering)<br /><br />
-   
-   💻 Passionate Software Developer and Data Science Enthusiast
-   
-   🚀 I love creating innovative solutions and exploring new technologies through hands-on projects!
-
-   📚 I'm always learning and building something new—whether it's a data model, a web app, or a personal project to challenge myself. My journey in tech is fueled by curiosity and        the desire to make an impact.
-   
-   🌱 Let's connect and build something awesome together! 😊
-</div>
-
-<div align="center">
-   <h2>Social Media</h2>
+<div>
+   <h2> #️⃣ Social Media</h2>
    <a href="mailto:muhdhasifzikry02@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&color=ffffff" />
    </a>
@@ -26,7 +21,7 @@
    </a>
 </div>
 <br />
-<h2 align="center">⚒️ Languages/Frameworks/Tools ⚒️ </h2>
+<h2>⚒️ Languages/Frameworks/Tools</h2>
 <br />
 <div align="center">
    <img src="https://img.shields.io/badge/C-violet?style=for-the-badge&logo=c&color=4A569A" />
@@ -48,12 +43,8 @@
    <img src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=white&color=EE5656" />  
 </div>
 
-<h2 align="center">📊 Github Stats 📊</h2>
 
-<div style="display: flex; justify-content: space-between;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siefzieq&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" style="width: 48%;">&nbsp&nbsp&nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siefzieq&layout=compact&theme=dracula" alt="Top Langs" style="width: 37%;">
-</div>
+
 
 
 
