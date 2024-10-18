@@ -29,9 +29,20 @@
 <h2 align="center">⚒️ Languages/Frameworks/Tools ⚒️ </h2>
 <br />
 <div align="center">
-   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=github,git,html,css,react,netlify,php,phpstorm,py,js,bootstrap,figma,firebase,mysql,java,laravel,cpp,c,cs,dotnet,vscode,tensorflow,anaconda,npm&perline=8" />
-   </a>
+   <img src="https://img.shields.io/badge/C-violet?style=for-the-badge&logo=c&color=4A569A" />
+   <img src="https://img.shields.io/badge/C%2B%2B-violet?style=for-the-badge&logo=c%2B%2B&color=003668" />
+   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+   <img src="https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5&logoColor=ffffff&color=B6401E" />
+   <img src="https://img.shields.io/badge/css3-white?style=for-the-badge&logo=CSS3&logoColor=ffffff&color=1F3EB6" />
+   <img src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=ffffff&color=C6B216" />
+   <img src="https://img.shields.io/badge/bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=ffffff&color=620EC6" />
+   <img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=ffffff&color=C1740E" />
+   <img src="https://img.shields.io/badge/laravel-white?style=for-the-badge&logo=laravel&logoColor=ffffff&color=C04233" />
+   <img src="https://img.shields.io/badge/tableau-white?style=for-the-badge&logo=tableau&logoColor=BA5E25&color=CCCCCC" />
+   <img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&color=f7f7f7" />
+   <img src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=black&color=61DBFB" />
+      
 </div>
 
 <h2 align="center">📊 Github Stats 📊</h2>
